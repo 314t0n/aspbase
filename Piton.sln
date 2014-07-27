@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Piton.Domain", "Piton.Domain\Piton.Domain.csproj", "{2E74B60B-51A3-4762-878F-D3305940981F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Piton.WebUI", "Piton.WebUI\Piton.WebUI.csproj", "{DCA89875-D1CA-4C8C-ABF0-8008AF0B13AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Piton.UnitTest", "Piton.UnitTest\Piton.UnitTest.csproj", "{D0720C58-6B2B-40CB-BAA7-8190BCB2A14F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E74B60B-51A3-4762-878F-D3305940981F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E74B60B-51A3-4762-878F-D3305940981F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E74B60B-51A3-4762-878F-D3305940981F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E74B60B-51A3-4762-878F-D3305940981F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCA89875-D1CA-4C8C-ABF0-8008AF0B13AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCA89875-D1CA-4C8C-ABF0-8008AF0B13AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCA89875-D1CA-4C8C-ABF0-8008AF0B13AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCA89875-D1CA-4C8C-ABF0-8008AF0B13AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0720C58-6B2B-40CB-BAA7-8190BCB2A14F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0720C58-6B2B-40CB-BAA7-8190BCB2A14F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0720C58-6B2B-40CB-BAA7-8190BCB2A14F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0720C58-6B2B-40CB-BAA7-8190BCB2A14F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

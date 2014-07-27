@@ -1,0 +1,10 @@
+E:\KMD\dev\vs\Piton\Piton.Domain\bin\Debug\Piton.Domain.dll.config
+E:\KMD\dev\vs\Piton\Piton.Domain\bin\Debug\Piton.Domain.dll
+E:\KMD\dev\vs\Piton\Piton.Domain\bin\Debug\Piton.Domain.pdb
+E:\KMD\dev\vs\Piton\Piton.Domain\bin\Debug\EntityFramework.dll
+E:\KMD\dev\vs\Piton\Piton.Domain\bin\Debug\EntityFramework.SqlServer.dll
+E:\KMD\dev\vs\Piton\Piton.Domain\bin\Debug\EntityFramework.xml
+E:\KMD\dev\vs\Piton\Piton.Domain\bin\Debug\EntityFramework.SqlServer.xml
+E:\KMD\dev\vs\Piton\Piton.Domain\obj\Debug\Piton.Domain.dll
+E:\KMD\dev\vs\Piton\Piton.Domain\obj\Debug\Piton.Domain.pdb
+E:\KMD\dev\vs\Piton\Piton.Domain\obj\Debug\Piton.Domain.csprojResolveAssemblyReference.cache
